@@ -1,0 +1,1 @@
+<div align="center"><img src="g.gif" width="360" height="210"  /> </div>
